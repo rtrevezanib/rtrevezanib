@@ -8,7 +8,7 @@
 * 👯 I’m looking to collaborate on projects involving **Windows, JAMF, Intune, Azure, Infrastructure, and Cloud technologies**.
 * 🤔 I’m looking to improve my skills with **DevOps tools, automation, Infrastructure as Code, and CI/CD pipelines**.
 * 💬 Ask me about **Windows, Azure, Intune, JAMF, Entra ID, Microsoft 365, and Endpoint Management**.
-* 📫 How to reach me: **[LinkedIn](YOUR_LINKEDIN_URL)** | **[Upwork](YOUR_UPWORK_URL)**
+* 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/renan-trevezani-bastos/)** | **[Email](renantb.dev@gmail.com)**
 * ⚡ Fun fact: **I enjoy building labs and breaking things in the name of learning. 😄**
 
 ---
