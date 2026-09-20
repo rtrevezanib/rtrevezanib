@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Renan 👋
 
 ### ☁️ Cloud & Infrastructure Engineer | Azure | Microsoft 365 | Endpoint Management
